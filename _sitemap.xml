@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap><loc>[%_PROJET_WEB_%]/FR/sitemap.xml</loc><lastmod>2025-02-04</lastmod></sitemap></sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE-Administration.php</loc><lastmod>2025-02-04</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE-Participent.php</loc><lastmod>2025-02-04</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE-info-sentinelle.php</loc><lastmod>2025-02-04</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/index.php</loc><lastmod>2025-02-04</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE-Menu.php</loc><lastmod>2025-02-04</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE-Inscription-planning.php</loc><lastmod>2025-02-04</lastmod></url>
+</urlset>
